@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+    font-family: athelas, serif;
+    
+    
+}
+
+h1{
+    color: #8a8c8f;
+}
+
+h2{
+    font-size: 3.5rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+#header{
+    background-color: black;
+    font-size: 10rem;
+    text-align: center;
+    height: 100%;
+   
+}
+
+
+h1 span{
+    color: #be1e2d;
+}
+
+#mission{
+    background-color: white;
+    margin-bottom: 0;
+    padding: 0 5%;
+}
+
+#mission p{
+    font-size: 2.5rem;
+}
+
+
+
+#mission .footer-logo{
+    text-align: right;
+    font-size: 2.5rem;
+    padding-right: 3%;
+}
+#vision{
+    background-color: white;
+    margin-top: 0;
+    
+}
+
+#vision h2, #vision p{
+    padding: 0 9%;
+    width: 40%;
+}
+
+#vision p{
+   align-items: flex-start;
+}
+
+#vision img{
+    width: 60%;
+}
+
